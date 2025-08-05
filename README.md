@@ -1,1 +1,1 @@
-# robotic-rehab-ai
+# AI Modules for Robotic Rehabilitation
