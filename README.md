@@ -1,5 +1,5 @@
 # Data Analysis Modules for Robotic Rehabilitation
-Repository "Data Analysis Modules for Robotic Rehabilitation" contains programming scripts for .... . Details of the developed low-cost robotic rehabilitation system are presented in the preprint titled "[Robotic Trail Maker Platform for Rehabilitation in Neurological Conditions: Clinical Use Cases](https://arxiv.org/pdf/2504.19230)" and authored by Srikar Annamraju, [Harris Nisar](https://github.com/nisar2), Dayu Xia, Shankar A. Deka, Anne Horowitz, [Nadica Miljković](https://github.com/NadicaSm/), and Dušan M. Stipanović.
+Repository "Data Analysis Modules for Robotic Rehabilitation" contains programming scripts for .... . Details of the developed low-cost robotic rehabilitation system are presented in the preprint titled "[Robotic Trail Maker Platform for Rehabilitation in Neurological Conditions: Clinical Use Cases](https://arxiv.org/pdf/2504.19230)" and authored by Srikar Annamraju, [Harris Nisar](https://github.com/nisar2), [Dayu Xia](https://github.com/dyxia1241), Shankar A. Deka, Anne Horowitz, [Nadica Miljković](https://github.com/NadicaSm/), and Dušan M. Stipanović.
 
 ## GitHub Repository Contents
 The repository contains the following files:
