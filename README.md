@@ -5,7 +5,7 @@ Repository "Data Analysis Modules for Robotic Rehabilitation" contains programmi
 The repository contains the following files:
 
 1) [README.me](https://github.com/nisar2/robotic-rehab-data-analysis/blob/main/README.md) - a file containing basic information about the GitHub repository "[https://github.com/nisar2/robotic-rehab-data-analysis/](https://github.com/nisar2/robotic-rehab-data-analysis/)"
-2) ...
+2) train_wo - a file containing data used for training the proposed model. The naming convention of the csv files within is : {shape} + {healthy or not} + {number} + {assisted or not}. Where {shape} = {b --> B, cir --> circle, tri --> triangle}, {healthy or not} = {h --> healthy, p --> not healthy}, {number} = {the assigned number upon data collection}, {assisted or not} = {w = assisted, wo = not assisted).
 
 ### License
 Unless otherwise stated, shared programming scripts are licensed under free software licence ...
