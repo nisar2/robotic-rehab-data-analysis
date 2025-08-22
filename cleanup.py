@@ -19,7 +19,7 @@ def remove_mp4_files(directory):
 
 if __name__ == "__main__":
     # Replace 'your_directory_path' with the path to the directory you want to clean up
-    directory_to_clean = "/Users/harris/projects/robotic-rehab-data-analysis"
+    directory_to_clean = "/Users/harris/Downloads/OSF"
     if os.path.isdir(directory_to_clean):
         remove_mp4_files(directory_to_clean)
     else:
